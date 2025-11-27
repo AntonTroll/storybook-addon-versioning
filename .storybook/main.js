@@ -8,7 +8,4 @@ module.exports = {
     name: "@storybook/react-vite",
     options: {},
   },
-  docs: {
-    autodocs: "tag",
-  },
 };
